@@ -13,5 +13,13 @@
   "devDependencies": {
     "typescript": "^4.1.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirtualProgramer/ParcelAndRxJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VirtualProgramer/ParcelAndRxJS/issues"
+  },
+  "homepage": "https://github.com/VirtualProgramer/ParcelAndRxJS#readme",
   "description": ""
 }
